@@ -1,0 +1,30 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-blue{
+    background-color: #C4E2FF
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.text-size{
+    
+    font-size: 110px;
+    
+}
+
+.image {
+   
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    float: right;
+  
+}
+
+p{
+    font-weight: bold;
+}
