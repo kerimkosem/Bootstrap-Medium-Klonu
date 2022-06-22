@@ -2,11 +2,8 @@
 ```
 Bu projede bootstrap ve fontawesome kullanarak medium klonu yaptık.
 
-https://cosmic-cajeta-a2f146.netlify.app/
-
 ```
-
-[Siteyi Buraya tıklayarak görebilirsiniz.](https://www.google.com](https://cosmic-cajeta-a2f146.netlify.app)
+[Netlify Linki](https://cosmic-cajeta-a2f146.netlify.app/)
 
 ## Görseller
 
