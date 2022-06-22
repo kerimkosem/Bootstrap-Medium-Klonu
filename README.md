@@ -4,9 +4,9 @@ Bu projede bootstrap ve fontawesome kullanarak medium klonu yaptık.
 
 https://cosmic-cajeta-a2f146.netlify.app/
 
-[I'm an inline-style link](https://www.google.com)
-
 ```
+
+[I'm an inline-style link](https://www.google.com)
 
 ## Görseller
 
