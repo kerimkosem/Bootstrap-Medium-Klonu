@@ -4,7 +4,7 @@
 In this project, I made a medium clone using bootstrap and fontawesome.
 
 ```
-[Netlify Linki](https://cosmic-cajeta-a2f146.netlify.app/)
+[Netlify Linki](https://medium-clone-site.netlify.app)
 
 ## Görseller
 
