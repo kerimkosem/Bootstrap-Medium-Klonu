@@ -1,6 +1,7 @@
 # medium-bootstrap-clone
 ```
-Bu projede bootstrap ve fontawesome kullanarak medium klonu yaptık.
+
+In this project, I made a medium clone using bootstrap and fontawesome.
 
 ```
 [Netlify Linki](https://cosmic-cajeta-a2f146.netlify.app/)
